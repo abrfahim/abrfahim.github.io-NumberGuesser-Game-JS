@@ -1,1 +1,1 @@
-# abrfahim.github.io-NumberGuesser-Game-JS
+A simple project for learning js functionalities. 
