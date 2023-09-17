@@ -1,0 +1,11 @@
+body{
+    background: rgb(0, 0, 72);
+    color: whitesmoke;
+    text-size-adjust: 20px;
+}
+
+#guessInput{
+    text-align: center;
+    text-size-adjust: 50px;
+    margin-top: 25px;
+}
